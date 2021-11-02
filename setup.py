@@ -11,7 +11,7 @@ setuptools.setup(
     description="A Google's Perspective API wrapper", # A short description here!
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject", # Link your package website here! (most commonly a GitHub repo)
+    url="https://github.com/Brain-Flooder/PySpective/", # Link your package website here! (most commonly a GitHub repo)
     packages=setuptools.find_packages(), # A list of all packages for Python to distribute!
     classifiers=[
         "Programming Language :: Python :: 3",
