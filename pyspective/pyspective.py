@@ -1,6 +1,5 @@
 import requests
 from requests.models import ReadTimeoutError
-from errors import APIException
 
 class PyspectiveAPI():
     def __init__(self, APIkey):
