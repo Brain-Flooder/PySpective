@@ -1,0 +1,2 @@
+def APIException(Exception):
+    pass
